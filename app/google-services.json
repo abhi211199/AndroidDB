@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "91743349502",
+    "firebase_url": "https://resedue-be000.firebaseio.com",
+    "project_id": "resedue-be000",
+    "storage_bucket": "resedue-be000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91743349502:android:bacab6be1cbbbae3",
+        "android_client_info": {
+          "package_name": "com.example.resedue.resedue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91743349502-77rva5hivb05obmid84s3kk317nfh03q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.resedue.resedue",
+            "certificate_hash": "4a49c20cbd60ebe67d66997f73188688290926b3"
+          }
+        },
+        {
+          "client_id": "91743349502-f61aj8cnkco1ffjf3us0evuknkk5033b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyjZVziP_s888h0vUbisyU9Y77bH22RuE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91743349502-f61aj8cnkco1ffjf3us0evuknkk5033b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
